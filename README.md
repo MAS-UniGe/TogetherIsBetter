@@ -39,10 +39,17 @@ Instruction for run the presented projects:
 The code has been developed by Manuel Parmiggiani; the ICAART 2025 paper has been written in collaboration with Angelo Ferrando and Viviana Mascardi. You may cite the paper as
 
 @inproceedings{DBLP:conf/icaart/Parmiggiani25,
+
   author       = {Manuel Parmiggiani and Angelo Ferrando and Viviana Mascardi},
+
   title        = {Together is Better! {I}ntegrating {BDI} and {RL} Agents for Safe Learning and Effective Collaboration},
+  
   booktitle    = {{ICAART}},
+  
   pages        = {12},
+  
   publisher    = {{SCITEPRESS}},
+  
   year         = {2025}
+
 }
