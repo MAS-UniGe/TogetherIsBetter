@@ -1,0 +1,78 @@
+players:
+  - crewmate_BDI_1
+  - crewmate_BDI_2
+  - crewmate_BDI_3
+  - crewmate_BDI_4
+  - crewmate_RL_1
+  - crewmate_RL_2
+  - crewmate_RL_3
+  - crewmate_RL_4
+  - impostor_BDI_1
+  - impostor_BDI_2
+  - impostor_BDI_3
+  - impostor_RL_
+
+crewmate_skill:
+  crewmate_BDI_1: 0.6
+  crewmate_BDI_2: 0.6
+  crewmate_BDI_3: 0.6
+  crewmate_BDI_4: 0.6
+  crewmate_RL_1: 0.6
+  crewmate_RL_2: 0.6
+  crewmate_RL_3: 0.6
+  crewmate_RL_4: 0.6
+  
+impostor_behavior:
+  impostor_BDI_1: methodical
+  impostor_BDI_2: methodical
+  impostor_BDI_3: methodical
+  impostor_RL_: RL_implementation
+
+colors:
+  - red
+  - blue
+  - green
+  - yellow
+  - pink
+  - orange
+  - black
+  - white
+  - purple
+  - brown
+  - cyan
+  - lime
+
+player_color:
+  crewmate_BDI_1: random
+  crewmate_BDI_2: random
+  crewmate_BDI_3: random
+  crewmate_BDI_4: random
+  crewmate_RL_1: random
+  crewmate_RL_2: random
+  crewmate_RL_3: random
+  crewmate_RL_4: random
+  impostor_BDI_1: random
+  impostor_BDI_2: random
+  impostor_BDI_3: random
+  impostor_RL_: random
+
+rooms:
+  section_1: 6
+  section_2: 6
+  section_3: 6
+  section_4: 6
+  section_5: 6
+
+initial_room:
+  crewmate_BDI_1: random
+  crewmate_BDI_2: random
+  crewmate_BDI_3: random
+  crewmate_BDI_4: random
+  crewmate_RL_1: random
+  crewmate_RL_2: random
+  crewmate_RL_3: random
+  crewmate_RL_4: random
+  impostor_BDI_1: random
+  impostor_BDI_2: random
+  impostor_BDI_3: random
+  impostor_RL_: random
