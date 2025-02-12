@@ -48,8 +48,6 @@ The code has been developed by Manuel Parmiggiani; the ICAART 2025 paper has bee
   
   pages        = {12},
   
-  publisher    = {{SCITEPRESS}},
-  
+  publisher    = {{SCITEPRESS}},  
   year         = {2025}
-
 }
