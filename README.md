@@ -1,5 +1,5 @@
 # Together is Better! Integrating BDI and RL Agents for Safe Learning and Effective Collaboration
-Companion code of the ICAART 2025 paper, based on Manuel Parmiggiani's final project for the master degree exam, university of Genoa, academic year 2022/2023. The slides of the presentation are available here, https://github.com/MAS-UniGe/TogetherIsBetter/blob/main/ICAART2025-presentation-Parmiggiani-Mascardi-Ferrando.pdf?raw=true
+Companion code of the ICAART 2025 paper, based on Manuel Parmiggiani's final project for the master degree exam, university of Genoa, academic year 2022/2023. The slides of the presentation are available at https://github.com/MAS-UniGe/TogetherIsBetter/blob/main/ICAART2025-presentation-Parmiggiani-Mascardi-Ferrando.pdf?raw=true, while the video is available at https://www.dropbox.com/scl/fi/ojg6srq7ihqzjvy5t9u5m/Together-is-better-ICAART-2025-video-20250212_111948-Meeting-Recording.mp4?raw=true
 
 ## AgentSpeak & Jason Examples
 If you are not proficient about the use of Jason and AgentSpeak, this directory contains some simple and useful examples to understand how it works, together with the instructions for running them.
@@ -38,11 +38,13 @@ Instruction for run the presented projects:
 ## Credits
 The code has been developed by Manuel Parmiggiani; the ICAART 2025 paper has been written in collaboration with Angelo Ferrando and Viviana Mascardi. You may cite the paper as
 
+Parmiggiani, M.; Ferrando, A. and Mascardi, V. (2025). Together Is Better! Integrating BDI and RL Agents for Safe Learning and Effective Collaboration.  In Proceedings of the 17th International Conference on Agents and Artificial Intelligence - Volume 3, ISBN 978-989-758-737-5, ISSN 2184-433X, pages 48-59. 
+
 @inproceedings{DBLP:conf/icaart/Parmiggiani25,  
   author       = {Manuel Parmiggiani and Angelo Ferrando and Viviana Mascardi},  
   title        = {Together is Better! {I}ntegrating {BDI} and {RL} Agents for Safe Learning and Effective Collaboration},  
-  booktitle    = {{ICAART}},   
-  pages        = {12},    
+  booktitle    = {Proceedings of the 17th International Conference on Agents and Artificial Intelligence - Volume 3},   
+  pages        = {48--59},    
   publisher    = {{SCITEPRESS}},  
   year         = {2025}  
 }
