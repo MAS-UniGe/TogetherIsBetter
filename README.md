@@ -1,5 +1,5 @@
 # Together is Better! Integrating BDI and RL Agents for Safe Learning and Effective Collaboration
-Companion code of the ICAART 2025 paper, based on Manuel Parmiggiani's final project for the master degree exam, university of Genoa, academic year 2022/2023. The slides of the presentation are available here, https://github.com/MAS-UniGe/TogetherIsBetter/blob/main/ICAART2025-presentation-Parmiggiani-Mascardi-Ferrando.pdf
+Companion code of the ICAART 2025 paper, based on Manuel Parmiggiani's final project for the master degree exam, university of Genoa, academic year 2022/2023. The slides of the presentation are available here, https://github.com/MAS-UniGe/TogetherIsBetter/blob/main/ICAART2025-presentation-Parmiggiani-Mascardi-Ferrando.pdf?raw=true
 
 ## AgentSpeak & Jason Examples
 If you are not proficient about the use of Jason and AgentSpeak, this directory contains some simple and useful examples to understand how it works, together with the instructions for running them.
