@@ -1,5 +1,5 @@
 # Together is Better! Integrating BDI and RL Agents for Safe Learning and Effective Collaboration
-Companion code of the ICAART 2025 paper, based on Manuel Parmiggiani's final project for the master degree exam, university of Genoa, academic year 2022/2023.   
+Companion code of the ICAART 2025 paper, based on Manuel Parmiggiani's final project for the master degree exam, University of Genoa, academic year 2022/2023.   
 The slides of the ICAART presentation are available at https://github.com/MAS-UniGe/TogetherIsBetter/blob/main/ICAART2025-presentation-Parmiggiani-Mascardi-Ferrando.pdf?raw=true, while the video is available at https://www.dropbox.com/scl/fi/ojg6srq7ihqzjvy5t9u5m/Together-is-better-ICAART-2025-video-20250212_111948-Meeting-Recording.mp4?rlkey=zpjbma71h9vslr9504bp0e5s6&dl=0
 
 ## AgentSpeak & Jason Examples
